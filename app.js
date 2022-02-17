@@ -25,4 +25,4 @@ function updateColor() {
   
 }
 
-setInterval(updateColor, 300);
+setInterval(updateColor, 500);
